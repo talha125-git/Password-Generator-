@@ -1,5 +1,5 @@
 git add .
-git commit -m "add Live Link"
+git commit -m "change title"
 git push origin main
 
 npm run deploy
