@@ -1,5 +1,5 @@
 git add .
-git commit -m "add gh-pages config"
+git commit -m "add Live Link"
 git push origin main
 
 npm run deploy
